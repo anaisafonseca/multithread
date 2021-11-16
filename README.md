@@ -7,7 +7,7 @@ O objetivo deste trabalho é a implementação de um servidor Web "multithreaded
 ## 2. Introdução
 O servidor Web é um dos componentes da aplicação Web e baseia-se em um programa servidor. Ao ser executado, o processo servidor é criado e ele mantém se "na escuta" para clientes Web que desejam extrair documentos por meio do protocolo HTTP. 
 
-$\space$ Através de conexões TCP, esse servidor recebe pedidos (requests) e envia respostas (responses) até que o cliente decida finalizar a conexão.
+Através de conexões TCP, esse servidor recebe pedidos (requests) e envia respostas (responses) até que o cliente decida finalizar a conexão.
 
 
 ## 3. Desenvolvimento
